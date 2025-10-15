@@ -1,0 +1,123 @@
+{
+    "resident_halls": {
+        "SB": {
+            "name": "Sher-e Bangla Fazlul Haque Hall",
+            "polling_center": [
+                "Satyendranath Bose Science Building, Gallery Room-129",
+                "সত্যেন্দ্রনাথ বসু বিজ্ঞান ভবন, গ্যালারী রুম-১২৯"
+            ]
+        },
+        "SM": {
+            "name": "Shah Makhdum Hall",
+            "polling_center": [
+                "Zuberi Building, West Hall Room",
+                "জুবেরী ভবন, পশ্চিম হল রুম"
+            ]
+        },
+        "AL": {
+            "name": "Nawab Abdul Latif Hall",
+            "polling_center": [
+                "Jamal Nazrul Islam Science Building, North-West, Room-109",
+                "জামাল নজরুল ইসলাম বিজ্ঞান ভবন, উত্তর-পশ্চিম, রুম-১০৯"
+            ]
+        },
+        "SZ": {
+            "name": "Shaheed Shamsuzzoha Hall",
+            "polling_center": [
+                "Jabir Ibn Hayyan Science Building, Room-101",
+                "জাবির ইবনে হাইয়ান বিজ্ঞান ভবন, রুম-১০১"
+            ]
+        },
+        "MJ": {
+            "name": "Mannujan Hall",
+            "polling_center": [
+                "Dean’s Complex, Room-110 (Canteen)",
+                "ডীনস কমপ্লেক্স, রুম-১১০(ক্যান্টিন)"
+            ]
+        },
+        "HR": {
+            "name": "Shaheed Habibur Rahman Hall",
+            "polling_center": [
+                "Jabir Ibn Hayyan Science Building, Room-224",
+                "জাবির ইবনে হাইয়ান বিজ্ঞান ভবন, রুম-২২৪"
+            ]
+        },
+        "MH": {
+            "name": "Matihar Hall",
+            "polling_center": [
+                "Satyendranath Bose Science Building, Room-112",
+                "সত্যেন্দ্রনাথ বসু বিজ্ঞান ভবন, রুম-১১২"
+            ]
+        },
+        "MB": {
+            "name": "Madar Bux Hall",
+            "polling_center": [
+                "Jagadish Chandra Bose Science Building, South-East Gate, Room-150",
+                "জগদীশ চন্দ্র বসু বিজ্ঞান ভবন, দক্ষিণ-পূর্ব গেট, রুম-১৫০"
+            ]
+        },
+        "SW": {
+            "name": "Shaheed Suhrawardy Hall",
+            "polling_center": [
+                "Jagadish Chandra Bose Science Building, South-West Gate, Room-121",
+                "জগদীশ চন্দ্র বসু বিজ্ঞান ভবন, দক্ষিণ-পশ্চিম গেট, রুম-১২১"
+            ]
+        },
+        "RK": {
+            "name": "Rokeya Hall",
+            "polling_center": [
+                "Syed Ismail Hossain Siraji Building, North-West Gate, Room-125",
+                "সৈয়দ ইসমাঈল হোসেন সিরাজী ভবন, উত্তর-পশ্চিম গেট, রুম-১২৫"
+            ]
+        },
+        "TR": {
+            "name": "Taposhi Rabeya Hall",
+            "polling_center": [
+                "Rabindra Building, North-West Gate, Room-244",
+                "রবীন্দ্র ভবন, উত্তর পশ্চিম গেট, রুম-২৪৪"
+            ]
+        },
+        "KZ": {
+            "name": "Begum Khaleda Zia Hall",
+            "polling_center": [
+                "Rabindra Building, East-South Gate, Room-119",
+                "রবীন্দ্র ভবন, পূর্ব-দক্ষিণ গেট, রুম-১১৯"
+            ]
+        },
+        "ZR": {
+            "name": "Shaheed Ziaur Rahman Hall",
+            "polling_center": [
+                "Dr. Shahidullah Arts Building, Gallery Room-150",
+                "ড. শহীদুল্লাহ কলা ভবন, গ্যালারী রুম-১৫০"
+            ]
+        },
+        "B24": {
+            "name": "Bijoy 24 Hall (Bangabandhu Sheikh Mujibur Rahman Hall)",
+            "polling_center": [
+                "Jamal Nazrul Islam Science Building, Conference Room-137",
+                "জামাল নজরুল ইসলাম বিজ্ঞান ভবন, কনফারেন্স রুম-১৩৭"
+            ]
+        },
+        "RN": {
+            "name": "Rahamatunnesa Hall",
+            "polling_center": [
+                "Rabindra Building, South-West Gate, Room-123",
+                "রবীন্দ্র ভবন, দক্ষিণ-পশ্চিম গেট, রুম-১২৩"
+            ]
+        },
+        "J36": {
+            "name": "July 36 Hall (Bangamata Sheikh Fazilatunnesa Hall)",
+            "polling_center": [
+                "Syed Ismail Hossain Siraji Building, North-West Gate, Room-128",
+                "সৈয়দ ইসমাঈল হোসেন সিরাজী ভবন, উত্তর-পশ্চিম গেট, রুম-১২৮"
+            ]
+        },
+        "AA": {
+            "name": "Syed Amer Ali Hall",
+            "polling_center": [
+                "Zuberi Building, East Hall Room",
+                "জুবেরী ভবন, পূর্ব হল রুম"
+            ]
+        }
+    }
+}
