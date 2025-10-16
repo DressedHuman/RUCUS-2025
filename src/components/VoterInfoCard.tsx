@@ -102,7 +102,7 @@ const InfoItem = ({
 
   return (
     <div
-      className="flex flex-col md:flex-row justify-between items-start gap-2 py-3 text-nowrap"
+      className="flex flex-col md:flex-row justify-start md:justify-between items-start gap-2 py-3 text-nowrap"
       style={{
         fontFamily: "system-ui, Avenir, Helvetica, Arial, sans-serif",
         fontWeight: 400,

@@ -27,7 +27,7 @@ const CandidatePromotion: React.FC = () => {
 
       {/* Name */}
       <h3 className="text-xl font-bold text-gray-900 text-center">
-        Al Shahriya Shovo
+        AL SHAHRIYA SHOVO
       </h3>
 
       {/* Role Tag */}
