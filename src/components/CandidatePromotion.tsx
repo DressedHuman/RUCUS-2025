@@ -40,7 +40,7 @@ const CandidatePromotion: React.FC = () => {
       {/* Ballot Number */}
       <p className="text-center text-blue-700 font-semibold text-sm">
         Ballot No:{" "}
-        <span className="text-2xl font-extrabold text-red-600">9</span>
+        <span className="text-2xl font-extrabold text-red-600">16</span>
       </p>
 
       {/* Description */}
